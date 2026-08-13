@@ -16,21 +16,21 @@ title: Support — Bugbridge for Jira
 Most problems fall into one of these:
 
 **No Jira issues are being created.** Check three things in order: the webhook URL from the app's
-admin page is pasted into your BugSnag Internal Integration and subscribed to the *issue* events; a
-rule exists for that BugSnag project; and the error passes the rule's level, environment and minimum
-event count filters.
+admin page is set as a **Data Forwarding** webhook on that BugSnag project; a rule exists for that
+project; and the error passes the rule's severity and release-stage filters.
 
-**Closing a Jira issue does not resolve it in BugSnag.** The BugSnag token needs **Issue & Event: Read
-& Write** — read alone cannot resolve. Re-save the token on the admin page; it verifies the token
-and detects your region.
+**Marking a Jira issue done does not mark the error fixed in BugSnag.** The BugSnag personal auth
+token needs **write** access — a read-only token can read errors but cannot change their status.
+Re-save the token on the admin page; it verifies the token against `https://api.bugsnag.com`.
 
 **The BugSnag panel is missing on an issue.** The panel only appears on issues Bugbridge linked. On
-issues created before the panel shipped, the marker property is absent.
+issues created before the panel shipped, or on issues the app did not create, the marker property is
+absent.
 
 **The subscription lapsed.** Issue creation and status sync stop; rules, links and the panel stay.
 Renewing resumes everything with no reconfiguration.
 
-When you write, include your Jira site URL, your BugSnag organisation slug, the BugSnag issue link and
+When you write, include your Jira site URL, your BugSnag project id, the BugSnag error link and
 roughly when it happened — that is usually enough to find it in the logs.
 
 ## Links

@@ -6,7 +6,7 @@ title: Terms of Service — Bugbridge for Jira
 
 **DataForte AB** · Tant Gröns väg 54, 147 60 Uttran, Sweden
 Contact: dataforteab@gmail.com
-Last updated: 12 August 2026
+Last updated: 14 August 2026
 
 These terms cover the Atlassian Marketplace app **Bugbridge for Jira** ("the app"), published by
 DataForte AB ("we").
@@ -26,17 +26,17 @@ reverse-engineer the app.
 
 ## 3. Subscription and billing
 
-Billing runs through Atlassian, on Atlassian's user tiers and billing cycles. Every paid cloud app
-includes a 30-day free trial. When a subscription lapses, the app stops creating and updating issues
-and stops synchronising status; your configuration, your links and your existing Jira issues are
-left untouched, and everything resumes on renewal. Refunds follow Atlassian's Marketplace refund
-policy.
+The app is a paid Marketplace app. Billing runs through Atlassian, on Atlassian's user tiers and
+billing cycles, and licensing is enforced by Atlassian. Every paid cloud app includes a 30-day free
+trial. When a subscription lapses, the app stops creating and updating issues and stops synchronising
+status; your configuration, your links and your existing Jira issues are left untouched, and
+everything resumes on renewal. Refunds follow Atlassian's Marketplace refund policy.
 
 ## 4. Third-party services
 
-The app talks to BugSnag using credentials you supply. Your relationship with BugSnag, and with
-Atlassian, is your own; we are not a party to it and are not responsible for their availability,
-pricing or changes to their APIs.
+The app talks to BugSnag using the personal auth token you supply. Your relationship with BugSnag,
+and with Atlassian, is your own; we are not a party to it and are not responsible for their
+availability, pricing or changes to their APIs.
 
 ## 5. Support
 
