@@ -5,7 +5,7 @@ title: Terms of Service — Bugbridge for Jira
 # Terms of Service
 
 **DataForte AB** · Tant Gröns väg 54, 147 60 Uttran, Sweden
-Contact: dataforteab@gmail.com
+Contact: hello@dataforteab.com
 Last updated: 14 August 2026
 
 These terms cover the Atlassian Marketplace app **Bugbridge for Jira** ("the app"), published by
@@ -40,7 +40,7 @@ availability, pricing or changes to their APIs.
 
 ## 5. Support
 
-Support is provided by email at dataforteab@gmail.com, in English, on Swedish business days. We aim
+Support is provided by email at hello@dataforteab.com, in English, on Swedish business days. We aim
 to acknowledge within two business days. There is no contractual uptime commitment; the app runs on
 Atlassian Forge and inherits Atlassian's platform availability.
 

@@ -30,4 +30,4 @@ An Atlassian Forge app by **DataForte AB**, available on the Atlassian Marketpla
 
 ---
 
-DataForte AB · Tant Gröns väg 54, 147 60 Uttran, Sweden · dataforteab@gmail.com
+DataForte AB · Tant Gröns väg 54, 147 60 Uttran, Sweden · hello@dataforteab.com

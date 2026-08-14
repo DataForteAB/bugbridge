@@ -6,7 +6,7 @@ title: Support — Bugbridge for Jira
 
 **Bugbridge for Jira** is built and supported by **DataForte AB**.
 
-- **Email:** dataforteab@gmail.com
+- **Email:** hello@dataforteab.com
 - **Language:** English
 - **Hours:** Swedish business days, 09:00–17:00 CET
 - **First response:** within two business days

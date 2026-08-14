@@ -5,7 +5,7 @@ title: Privacy Policy — Bugbridge for Jira
 # Privacy Policy
 
 **DataForte AB** · Tant Gröns väg 54, 147 60 Uttran, Sweden
-Contact: dataforteab@gmail.com
+Contact: hello@dataforteab.com
 Last updated: 14 August 2026
 
 This policy describes how the Atlassian Marketplace app **Bugbridge for Jira** ("the app")
@@ -85,7 +85,7 @@ Data lives for as long as the app is installed. **Uninstalling the app deletes i
 including the encrypted credentials. Jira issues the app created remain in your Jira site, because
 they are your issues.
 
-To request information or deletion at any other time, write to dataforteab@gmail.com. We answer
+To request information or deletion at any other time, write to hello@dataforteab.com. We answer
 within 30 days.
 
 ## Your rights
